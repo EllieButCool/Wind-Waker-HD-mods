@@ -1,0 +1,12 @@
+{
+  "formatVersion": 1,
+  "name": "WWHD",
+  "author": "EllieButCool",
+  "description": "Mods for The Legend Of Zelda: Wind Waker HD",
+  "version": "1",
+  "games": [
+    {
+      "path": "games/wind-waker/game.json"
+    }
+  ]
+}
