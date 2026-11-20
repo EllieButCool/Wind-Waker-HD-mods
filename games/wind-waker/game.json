@@ -1,0 +1,22 @@
+{
+  "name": "WindWakerHD",
+  "icon": "https://cdn2.steamgriddb.com/icon/f023559c6d59c04e3804209f573dbff9/32/256x256.png",
+  "titleIds": [
+    "0005000010143500"
+  ],
+  "mods": [
+    {
+      "id": "1",
+      "name": "Linkle",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "pokisofiii",
+      "description": "Tada!~\n\nSay hello to Toon Linkle! This mod fully replaces Hero of the Winds with Linkle.\nIn the style of Nintendo, I thought it fitting to release a smaller mod to hold some of you guys over while waiting for Linkle 3.0!\n\nThis expressive and adorable girl has stumbled her way into a whole new game, and she can't wait to meet you! Help her keep her vow to save Hyrule in a bouncy, fun, and sweet story that will keep you smiling all the way through!\n\nThis mod features a fully custom model, made from scratch! A special thanks to SariaOfTheKokiri for making the female dialogue patch which is included in this mod as well as the model replacement tutorial that helped me get started making this. \n",
+      "download": "https://gamebanana.com/dl/753169",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6215323ee012f.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6215323ee012f.jpg"
+      ]
+    }
+  ]
+}
